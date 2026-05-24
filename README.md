@@ -26,3 +26,9 @@ project-folder/
 ├─ .env.example
 ├─ .gitignore
 ```
+
+## Acknowledgements
+
+- [LangChain](https://www.langchain.com/) for the RAG pipeline components
+- [Ollama](https://ollama.com/) for local LLM hosting
+- [HuggingFace](https://huggingface.co/) for embeddings and dataset hosting
